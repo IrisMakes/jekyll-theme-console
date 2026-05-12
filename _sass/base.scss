@@ -26,6 +26,7 @@ a:hover { color: var(--background-color); background-color: var(--base-color); }
 .container { width: $container-width;  max-width: $container-max-width;  margin-right: auto;  margin-left: auto; }
 .split-container { text-align: justify; position: relative; }
 .split-container img { position: absolute; left: -580px; top: 0px; max-width: 550px; }
+.split-container video { position: absolute; left: -580px; top: 0px; max-width: 550px; }
 .split-container-right {text-align: justify; position: relative;}
 .split-container-right img { position: absolute; right: -580px; top: 0px; max-width: 550px; }
 
